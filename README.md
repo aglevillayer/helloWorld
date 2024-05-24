@@ -1,2 +1,2 @@
 # helloWorld
-Découverte de Github avec Odyssey
+Découverte de Git et Github avec Odyssey
